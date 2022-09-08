@@ -21,7 +21,7 @@ main {
   max-width: 1200px;
 }
 
-h1, h2, .title {
+h1, h2, h3, .title {
   margin: 10px 0;
   font-weight: 700;
   color: black;
@@ -29,13 +29,20 @@ h1, h2, .title {
 }
 
 h1, .title {
-  font-size: 3em;
-  margin-bottom: 0.5em;
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
 }
 
 h2 {
-  padding-bottom: 10px;
   font-size: 2em;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 1.5em;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 p {
@@ -165,6 +172,10 @@ footer a {
   margin: 2em 0;
 }
 
+.bigger {
+  font-size: 1.5em;
+}
+
 .big {
   font-size: 3em;
 }
@@ -177,6 +188,26 @@ footer a {
 
 .small {
   font-size: 0.8em;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.green {
+  border: 3px solid green;
+  border-radius: 5px;
+  background-color: #DEFF84;
+  padding: 5px;
+  margin: 10px 0;
+}
+
+.red {
+  border: 3px solid red;
+  border-radius: 5px;
+  background-color: #E6B7B7;
+  padding: 5px;
+  margin: 10px 0;
 }
 
 /*Small Devices*/
