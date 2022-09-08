@@ -64,7 +64,7 @@ p {
   overflow: hidden;
   background-size: cover !important;
   background-color: #098191;
-  background: linear-gradient(45deg, rgba(186,164,211,100) 0%, rgba(0,0,0,0) 40%, rgba(82,27,146,0.85) 100%), url('../images/briefkasten_1280.png') no-repeat center center scroll;
+  background: linear-gradient(45deg, rgba(186,164,211,100) 0%, rgba(0,0,0,0) 40%, rgba(82,27,146,0.85) 100%), url('../images/votes.jpeg') no-repeat center center scroll;
   color: white;
 }
 
