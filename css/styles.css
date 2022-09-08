@@ -210,6 +210,10 @@ footer a {
   margin: 10px 0;
 }
 
+.fit-to-screen {
+  width: 80%;
+}
+
 /*Small Devices*/
 
 @media screen and (max-width: 1024px) {
