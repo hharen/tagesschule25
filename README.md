@@ -1,4 +1,4 @@
-# jederbriefzahlt
-A website to support initiative to stop staff cuts for project Tagesschule 2025 in canton of Zürich, Switzerland.
+# tagesschule25
+A website to support initiative to stop staff cuts for project Tagesschule 2025 in canton of Zürich, Switzerland and recommend voting alternative.
 
-Check it out here: https://jederbriefzählt.ch/
+Check it out here: https://www.tagesschule25.ch/
